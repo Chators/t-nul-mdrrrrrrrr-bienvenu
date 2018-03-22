@@ -1,0 +1,15 @@
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\bin\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.Tests.deps.json
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\bin\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.Tests.runtimeconfig.json
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\bin\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.Tests.runtimeconfig.dev.json
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\bin\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.Tests.dll
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\bin\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.Tests.pdb
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\bin\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.dll
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\bin\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.pdb
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\obj\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.Tests.csprojResolveAssemblyReference.cache
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\obj\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.Tests.csproj.CoreCompileInputs.cache
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\obj\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.Tests.AssemblyInfoInputs.cache
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\obj\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.Tests.AssemblyInfo.cs
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\obj\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.Tests.csproj.CopyComplete
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\obj\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.Tests.dll
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DAL.Tests\obj\Debug\netcoreapp2.0\ITI.PrimarySchool.DAL.Tests.pdb
