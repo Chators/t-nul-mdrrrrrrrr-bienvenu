@@ -117,3 +117,4 @@ C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DB\obj\Debug\n
 C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DB\obj\Debug\net461\ITI.PrimarySchool.DB.csproj.CopyComplete
 C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DB\obj\Debug\net461\ITI.PrimarySchool.DB.exe
 C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DB\obj\Debug\net461\ITI.PrimarySchool.DB.pdb
+C:\Users\thiba\Desktop\SQL S4\NetCoreSample\src\ITI.PrimarySchool.DB\obj\Debug\net461\ITI.PrimarySchool.DB.csprojResolveAssemblyReference.cache

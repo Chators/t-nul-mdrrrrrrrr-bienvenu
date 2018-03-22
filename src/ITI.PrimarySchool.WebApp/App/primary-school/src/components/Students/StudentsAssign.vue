@@ -43,6 +43,7 @@
                 this.availableClasses = await this.executeAsyncRequest(() => ClassApiService.getClassListAsync(this.studentId));
             }
             catch(e) {
+                console.error(e);
                 return this.redirectToList();
             }
         },
@@ -62,7 +63,7 @@
                     this.redirectToList();
                 }
                 catch(e) {
-
+                    
                 }
             }
         }

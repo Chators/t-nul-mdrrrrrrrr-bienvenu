@@ -69,7 +69,7 @@ namespace ITI.PrimarySchool.WebApp.Controllers
         [HttpGet( "{id}/assignedClass" )]
         public async Task<IActionResult> AssignedClass( int id )
         {
-            Result<AssignedClassData> result = await _classGateway.AssignedClass( id );
+            Result<AssignedClassData> result = await _classGateway.AssignedStudentClass( id );
             return this.CreateResult( result );
         }
         
