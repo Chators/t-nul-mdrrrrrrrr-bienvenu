@@ -6,7 +6,6 @@ as
         LastName = s.LastName,
         BirthDate = s.BirthDate,
         ClassId = c.ClassId,
-        IsPresent = c.IsPresent,
         ClassName = case when c.ClassId = 0 then N'' else c.Name end,
         [Level] = case when c.ClassId = 0 then N'' else c.[Level] end,
         TeacherId = t.TeacherId,

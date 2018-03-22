@@ -5,7 +5,6 @@ create table iti.tStudent
     LastName  nvarchar(32) not null,
     BirthDate datetime2 not null,
     ClassId   int not null,
-    IsPresent boolean not null
 
     constraint PK_tStudent primary key(StudentId),
     constraint FK_tStudent_tClass foreign key(ClassId) references iti.tClass(ClassId),
@@ -15,4 +14,4 @@ create table iti.tStudent
 );
 
 insert into iti.tStudent(FirstName,                                LastName,                                 BirthDate,  ClassId)
-                  values(left(convert(nvarchar(36), newid()), 32), left(convert(nvarchar(36), newid()), 32), '00010101', 0, true);
+                  values(left(convert(nvarchar(36), newid()), 32), left(convert(nvarchar(36), newid()), 32), '00010101', 0);

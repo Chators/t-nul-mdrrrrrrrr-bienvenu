@@ -27,7 +27,6 @@ namespace ITI.PrimarySchool.DAL
                              s.LastName,
                              s.BirthDate,
                              s.ClassName,
-                             s.IsPresent,
                              s.GitHubLogin
                       from iti.vStudent s;" );
             }
@@ -104,7 +103,6 @@ namespace ITI.PrimarySchool.DAL
                 p.Add( "@BirthDate", birthDate );
                 p.Add( "@GitHubLogin", gitHubLogin ?? string.Empty );
                 p.Add( "@StudentId", dbType: DbType.Int32, direction: ParameterDirection.Output );
-                p.Add( "@IsPresent", true);
                 p.Add( "@Status", dbType: DbType.Int32, direction: ParameterDirection.ReturnValue );
                 await con.ExecuteAsync( "iti.sStudentCreate", p, commandType: CommandType.StoredProcedure );
 

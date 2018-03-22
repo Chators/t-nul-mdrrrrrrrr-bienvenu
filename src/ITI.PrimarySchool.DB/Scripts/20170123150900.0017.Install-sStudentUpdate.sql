@@ -4,8 +4,7 @@ create proc iti.sStudentUpdate
     @FirstName   nvarchar(64),
     @LastName    nvarchar(64),
     @BirthDate   datetime2,
-    @GitHubLogin nvarchar(64),
-    @IsPresent boolean
+    @GitHubLogin nvarchar(64)
 )
 as
 begin

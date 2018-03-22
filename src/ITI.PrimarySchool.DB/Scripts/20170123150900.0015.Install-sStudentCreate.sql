@@ -4,7 +4,6 @@ create procedure iti.sStudentCreate
     @LastName    nvarchar(64),
     @BirthDate   datetime2,
     @GitHubLogin nvarchar(64),
-	@IsPresent boolean,
 	@StudentId   int out
 )
 as
@@ -24,8 +23,8 @@ begin
 		return 2;
 	end;
 
-	insert into iti.tStudent(FirstName, LastName, BirthDate, ClassId, IsPresent)
-	                  values(@FirstName, @LastName, @BirthDate, 0, @IsPresent);
+	insert into iti.tStudent(FirstName, LastName, BirthDate, ClassId)
+	                  values(@FirstName, @LastName, @BirthDate, 0);
 	set @StudentId = scope_identity();
 	if @GitHubLogin <> N'' insert into iti.tGitHubStudent(StudentId, GitHubLogin) values(@StudentId, @GitHubLogin);
 
